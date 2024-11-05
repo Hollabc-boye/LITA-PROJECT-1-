@@ -49,6 +49,33 @@ Exploratory Data Analysis (EDA for short): Exploring of the Data to answer key q
 ### Data Visualization
 ---  
 
+![Removing Duplicates](https://github.com/user-attachments/assets/48cb7e9c-8c75-4d4e-926b-b261e330d91c) 
+
+![Creating a Table](https://github.com/user-attachments/assets/6d120258-6119-478c-b94d-cf33ec80d0b3) 
+
+![Excel Pivot and Graph](https://github.com/user-attachments/assets/15c9b085-8e0b-4c0e-846f-eb832dc93dc8)
+
+![Sql i](https://github.com/user-attachments/assets/08ca2d89-6cbb-4efe-bd50-6876dd02f2c0) 
+
+![Sql ii](https://github.com/user-attachments/assets/f2bed383-881c-477b-a8eb-53aa55cb0c6d)
+
+![Sql iii](https://github.com/user-attachments/assets/07df92a6-5e31-48ac-ae67-9f120ffaa055)
+
+![Sql iv](https://github.com/user-attachments/assets/31a673d3-4cbf-45e8-8d53-3b937f88b2da)
+
+![Sql v](https://github.com/user-attachments/assets/406e0b81-735c-4dd5-b2c7-523adb950d26)
+
+![Sql vi](https://github.com/user-attachments/assets/1ac21d6d-9495-4696-8ed2-3f2c16d9caa8)
+
+![Sql vii](https://github.com/user-attachments/assets/b272c90d-e4ec-45a2-8b4c-028e3a734f99)
+
+![Sql viii](https://github.com/user-attachments/assets/622ad01b-acb4-4745-8063-3436e6c512a7)
+
+![Sql ix](https://github.com/user-attachments/assets/0a313525-13ae-44c4-a869-6cba2b4c8f0a)
+
+![Power BI (Cleaning data)](https://github.com/user-attachments/assets/61e0927a-fd20-47a1-a3ad-b4ec0bb02b39)
+
+![Power BI](https://github.com/user-attachments/assets/9a2647f7-b37d-4ced-aac8-8eb668079650)
 
  ### Conclusion 
  ---
