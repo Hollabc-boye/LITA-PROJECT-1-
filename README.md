@@ -79,4 +79,4 @@ Exploratory Data Analysis (EDA for short): Exploring of the Data to answer key q
 
  ### Conclusion 
  ---
- The key insights: Top Selling Products, Best Performed Region and the highest Monthly sales trend were identified 
+ The key insights: The Analysis showed the Top Selling Product as Shoes, the Best Performed Region is South and the highest Monthly sales trend is also identified.
